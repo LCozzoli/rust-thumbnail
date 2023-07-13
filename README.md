@@ -5,9 +5,7 @@ A little helper for rust skins creators
 
 ## Installation
 
-Download the latest release
-
-https://github.com/LCozzoli/rust-thumbnail/releases/download/release/rust-thumbnail-1.0.zip
+Download the [latest release](https://github.com/LCozzoli/rust-thumbnail/releases/download/released/rust-thumbnail-1.1.zip)
 
 Replace the files in the `to_inject` folder with your custom item icons
 - `icon.png`
